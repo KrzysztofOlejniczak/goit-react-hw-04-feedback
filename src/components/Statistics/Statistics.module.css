@@ -1,0 +1,10 @@
+.list {
+  display: block;
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.item {
+  font-size: 18px;
+}
